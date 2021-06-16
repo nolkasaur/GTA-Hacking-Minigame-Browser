@@ -1,23 +1,21 @@
-import logo from './logo.svg';
-import './App.css';
+import Phone from './Components/Phone.js'
+import './App.css'
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div>
+      <Phone />
+      <div className='controls'>
+        <b>Controls:</b>
+        <br />
+        WASD to control left bar
+        <br />
+        SPACE to place left bar
+        <br />
+        ARROW KEYS to control right bar
+        <br />
+        ENTER to place right bar
+      </div>
     </div>
   );
 }

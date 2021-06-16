@@ -1,0 +1,25 @@
+.phone{
+    width: 1000px;
+    height: 490px;
+    background-origin: content-box;
+    background-image: url('..\\Images\\phone.png');
+    background-size: 800px;
+    background-repeat: no-repeat;
+    display: flex;
+    flex-direction: column;
+    margin: 20px auto;
+}
+
+.initialMenu{
+    color: #fff;
+    padding-left: 240px;
+    padding-top: 125px;
+    font-size: 30px;
+}
+
+.button{
+    width: 100px;
+    height: 40px;
+    margin-top: 30px;
+    margin-left: 115px;
+}

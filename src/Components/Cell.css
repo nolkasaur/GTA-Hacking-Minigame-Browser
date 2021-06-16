@@ -1,0 +1,12 @@
+.cell {
+    background: #000;
+    color: #34eb34;
+    border: 1px solid #414c69;
+    border-color: #d9d9d9;
+    float: left;
+    line-height: 34px;
+    height: 34px;
+    text-align: center;
+    width: 34px;
+    cursor: default;
+  }
