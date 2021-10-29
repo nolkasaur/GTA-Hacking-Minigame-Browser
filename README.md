@@ -1,6 +1,6 @@
 # WORK IN PROGRESS
 
-Just learning stuff.
+Just learning stuff. Garbage code.
 
 Inspired by Raze Network's bank heist hacking minigame.
 
