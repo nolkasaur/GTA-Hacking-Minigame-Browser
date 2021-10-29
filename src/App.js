@@ -8,13 +8,13 @@ function App() {
       <div className='controls'>
         <b>Controls:</b>
         <br />
-        WASD to control left bar
+        WASD to control green bar
         <br />
-        SPACE to place left bar
+        SPACE to place green bar
         <br />
-        ARROW KEYS to control right bar
+        ARROW KEYS to control red bar
         <br />
-        ENTER to place right bar
+        ENTER to place red bar
       </div>
     </div>
   );

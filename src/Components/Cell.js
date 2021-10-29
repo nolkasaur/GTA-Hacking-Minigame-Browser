@@ -2,7 +2,7 @@ import './Cell.css'
 
 const Cell = ({value}) => {
     return (
-        <div className='cell'>
+        <div className='cell' id={"cell-" + value.x + "-" + value.y}>
             {value.val}
         </div>
     )
