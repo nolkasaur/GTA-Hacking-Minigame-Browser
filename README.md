@@ -1,4 +1,4 @@
-# WORK IN PROGRESS
+#  GTA-Hacking-Minigame-Browser
 
 Just learning stuff. Garbage code.
 
