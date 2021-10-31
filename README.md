@@ -4,6 +4,8 @@ Just learning stuff. Garbage code.
 
 Inspired by Raze Network's bank heist hacking minigame.
 
+![screenshot1](screenshot1.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
