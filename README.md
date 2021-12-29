@@ -1,8 +1,6 @@
 #  GTA-Hacking-Minigame-Browser
 
-Just learning stuff. Garbage code.
-
-Inspired by Raze Network's bank heist hacking minigame.
+React App inspired by GTA RP's Raze Network's bank heist hacking minigame.
 
 ![screenshot1](screenshot1.png)
 
